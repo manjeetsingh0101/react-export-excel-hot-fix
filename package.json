@@ -1,27 +1,28 @@
 {
-  "name": "react-export-excel-fix",
+  "name": "react-export-excel-hot-fix",
   "version": "0.5.3",
   "main": "dist/index.js",
   "description": "A tool to export dataset from react to excel format.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaibhavInnostax665/react-export-excel-fix.git"
+    "url": "git+https://github.com/manjeetsingh0101/react-export-excel-hot-fix.git"
   },
   "keywords": [
-    "react-export-excel-fix",
+    "react-export-excel-hot-fix",
     "react-data-export",
     "react-dataset",
     "react-export",
     "react-excel-export"
   ],
-  "author": "Ricardo Díaz <vaibhavInnostax665@innostax.com>",
-  "license": "MIT",
+  "author": "Manjeet <manjeetsingh0101@innostax.com>",
+  "license": "None",
   "bugs": {
-    "url": "https://github.com/vaibhavInnostax665/react-export-excel-fix/issues"
+    "url": "https://github.com/manjeetsingh0101/react-export-excel-hot-fix/issues"
   },
-  "homepage": "https://github.com/vaibhavInnostax665/react-export-excel-fix#readme",
+  "homepage": "https://github.com/manjeetsingh0101/react-export-excel-hot-fix#readme",
   "dependencies": {
     "file-saver": "1.3.8",
+    "react-export-excel-hot-fix": "file:",
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
   },
   "devDependencies": {

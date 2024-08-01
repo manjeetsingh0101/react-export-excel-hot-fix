@@ -1,11 +1,11 @@
-# React-Export-Excel-Fix
+# React-Export-Excel-Hot-Fix
 
 [![npm version](https://badge.fury.io/js/react-data-export.svg)](https://badge.fury.io/js/react-data-export)
-[![dependencies Status](https://david-dm.org/securedeveloper/react-data-export/status.svg)](https://david-dm.org/securedeveloper/react-data-export)
-[![devDependencies Status](https://david-dm.org/securedeveloper/react-data-export/dev-status.svg)](https://david-dm.org/securedeveloper/react-data-export?type=dev)
-[![Build Status](https://travis-ci.org/securedeveloper/react-data-export.svg?branch=master)](https://travis-ci.org/securedeveloper/react-data-export)
-[![Vulnerabilities](https://snyk.io/test/github/securedeveloper/react-data-export/badge.svg)](https://snyk.io/test/github/securedeveloper/react-data-export)
-[![Coverage Status](https://coveralls.io/repos/github/securedeveloper/react-data-export/badge.svg?branch=master)](https://coveralls.io/github/securedeveloper/react-data-export?branch=master)
+[![dependencies Status](https://david-dm.org/manjeetsingh0101/react-data-export/status.svg)](https://david-dm.org/manjeetsingh0101/react-data-export)
+[![devDependencies Status](https://david-dm.org/manjeetsingh0101/react-data-export/dev-status.svg)](https://david-dm.org/manjeetsingh0101/react-data-export?type=dev)
+[![Build Status](https://travis-ci.org/manjeetsingh0101/react-data-export.svg?branch=master)](https://travis-ci.org/manjeetsingh0101/react-data-export)
+[![Vulnerabilities](https://snyk.io/test/github/manjeetsingh0101/react-data-export/badge.svg)](https://snyk.io/test/github/manjeetsingh0101/react-data-export)
+[![Coverage Status](https://coveralls.io/repos/github/manjeetsingh0101/react-data-export/badge.svg?branch=master)](https://coveralls.io/github/manjeetsingh0101/react-data-export?branch=master)
 
 A export to excel library built with and for [React](http://facebook.github.io/react/index.html).
 
@@ -14,13 +14,13 @@ A export to excel library built with and for [React](http://facebook.github.io/r
 With [yarn](https://yarnpkg.com/en/):
 
 ```sh
-yarn add react-export-excel-fix
+yarn add react-export-excel-hot-fix
 ```
 
-With [npm](https://www.npmjs.org/package/react-export-excel-fix):
+With [npm](https://www.npmjs.org/package/react-export-excel-hot-fix):
 
 ```sh
-npm install react-export-excel-fix --save
+npm install react-export-excel-hot-fix --save
 ```
 
 ## Code Examples

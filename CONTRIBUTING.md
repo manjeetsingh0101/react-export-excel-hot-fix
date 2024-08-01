@@ -8,11 +8,11 @@ We are happy you wish to contribute this project, for that reason we want to boa
 
 Steps that contributor should follow in order to create a pull request
 
-[Fork](https://help.github.com/articles/fork-a-repo/) the [repository](https://github.com/securedeveloper/react-export-excel) by clicking the 'Fork' icon in the top-right corner of GitHub
+[Fork](https://help.github.com/articles/fork-a-repo/) the [repository](https://github.com/manjeetsingh0101/react-export-excel) by clicking the 'Fork' icon in the top-right corner of GitHub
 
 Clone the repository in the command line on your PC:
 
-`$ git clone https://github.com/securedeveloper/react-export-excel-fix`
+`$ git clone https://github.com/manjeetsingh0101/react-export-excel-hot-fix`
 
 Navigate to the cloned repository in the OS' file manager GUI or on the command line, e.g.
 

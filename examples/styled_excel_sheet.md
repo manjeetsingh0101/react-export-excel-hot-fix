@@ -1,6 +1,6 @@
 ```javascript
 import React, {Component} from 'react';
-import ReactExport from 'react-export-excel-fix';
+import ReactExport from 'react-export-excel-hot-fix';
 import './App.css';
 
 const ExcelFile = ReactExport.ExcelFile;

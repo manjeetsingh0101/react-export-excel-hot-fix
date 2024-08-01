@@ -2,7 +2,7 @@
 
 ```javascript
 import React from "react";
-import ReactExport from "react-export-excel-fix";
+import ReactExport from "react-export-excel-hot-fix";
 
 const ExcelFile = ReactExport.ExcelFile;
 const ExcelSheet = ReactExport.ExcelFile.ExcelSheet;
